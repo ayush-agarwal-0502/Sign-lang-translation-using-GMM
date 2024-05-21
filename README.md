@@ -1,2 +1,7 @@
 # Sign-lang-translation-using-GMM
-Sign language ASL alphabets translation - data collection and translation using mediapipe and gaussian mixture model 
+
+Probably my first project where I was also responsible for data collection :) 
+
+Skills and tools - Computer Vision, Gaussian Mixture model, Mediapipe, PCA, Machine Learning, Python 
+
+
